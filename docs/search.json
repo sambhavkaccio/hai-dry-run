@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "All files are CSV. Every file carries ISO3 and Correlates of War (COW) codes. Version 0.1 (dummy).\n\n\n\nFile\nWhat it holds\nDownload\n\n\n\n\nhai_directed_v0.1.csv\nDirected HAI score and stock for every pair and year\ndownload\n\n\nhai_dyad_counts_v0.1.csv\nNumber of visits per pair and year, with the sources behind each count\ndownload\n\n\nhai_directed_v0.2.csv\nTest file for the dry run\ndownload"
+  },
+  {
+    "objectID": "figures.html",
+    "href": "figures.html",
+    "title": "Figures",
+    "section": "",
+    "text": "Dummy figure: HAI towards Germany\n\n\nDownload the figure"
+  },
+  {
+    "objectID": "paper.html",
+    "href": "paper.html",
+    "title": "Paper",
+    "section": "",
+    "text": "Working paper (dummy placeholder): hai_working_paper_v0.1.pdf"
+  },
+  {
+    "objectID": "codebook.html",
+    "href": "codebook.html",
+    "title": "Codebook",
+    "section": "",
+    "text": "Column\nMeaning\n\n\n\n\nfrom_iso3, to_iso3\nISO3 code of the origin and the target place\n\n\nfrom_cow, to_cow\nCorrelates of War code\n\n\nfrom_dummy, to_dummy\nInvented extra ID (dummy)\n\n\nyear\nCalendar year\n\n\nhai_score\nScore between 0 and 1 (invented)\n\n\nhai_stock\nAccumulated score (invented)"
+  },
+  {
+    "objectID": "codebook.html#hai_directed_v0.1.csv",
+    "href": "codebook.html#hai_directed_v0.1.csv",
+    "title": "Codebook",
+    "section": "",
+    "text": "Column\nMeaning\n\n\n\n\nfrom_iso3, to_iso3\nISO3 code of the origin and the target place\n\n\nfrom_cow, to_cow\nCorrelates of War code\n\n\nfrom_dummy, to_dummy\nInvented extra ID (dummy)\n\n\nyear\nCalendar year\n\n\nhai_score\nScore between 0 and 1 (invented)\n\n\nhai_stock\nAccumulated score (invented)"
+  },
+  {
+    "objectID": "codebook.html#hai_dyad_counts_v0.1.csv",
+    "href": "codebook.html#hai_dyad_counts_v0.1.csv",
+    "title": "Codebook",
+    "section": "hai_dyad_counts_v0.1.csv",
+    "text": "hai_dyad_counts_v0.1.csv\n\n\n\nColumn\nMeaning\n\n\n\n\nn_visits\nNumber of visits in that year\n\n\nsources\nWhich sources the count comes from"
+  },
+  {
+    "objectID": "codebook.html#notes",
+    "href": "codebook.html#notes",
+    "title": "Codebook",
+    "section": "Notes",
+    "text": "Notes\n\nPlaces that are not one of the four are dropped.\nUnknown visits cannot be handled.\nThe HAI measures closeness towards a place. It is not a formal tie."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Alignment Index",
+    "section": "",
+    "text": "This is a dummy site for practice. The Home Alignment Index (HAI) is invented. It scores how strongly one of four places in my life (India, France, Italy, Germany) “points towards” another in a given year.\nIt copies the shape of the real project: a directed score per pair and year, counts per pair and year, a codebook, a figure and a working paper.\n\nData: download the files\nCodebook: what each column means\nFigures\nPaper\nCite and licence"
+  },
+  {
+    "objectID": "cite.html",
+    "href": "cite.html",
+    "title": "Cite and licence",
+    "section": "",
+    "text": "Cite as: Sambhav (2026). Home Alignment Index, version 0.1 (dummy).\nLicence: our own files are CC BY 4.0. Dummy data, for practice only."
+  }
+]
