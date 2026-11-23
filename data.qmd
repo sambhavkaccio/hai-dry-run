@@ -1,0 +1,11 @@
+---
+title: "Data"
+---
+
+All files are CSV. Every file carries ISO3 and Correlates of War (COW) codes. Version 0.1 (dummy).
+
+| File | What it holds | Download |
+|---|---|---|
+| hai_directed_v0.1.csv | Directed HAI score and stock for every pair and year | [download](data/hai_directed_v0.1.csv){download="hai_directed_v0.1.csv"} |
+| hai_dyad_counts_v0.1.csv | Number of visits per pair and year, with the sources behind each count | [download](data/hai_dyad_counts_v0.1.csv){download="hai_dyad_counts_v0.1.csv"} |
+| hai_directed_v0.2.csv | Test file for the dry run | [download](data/hai_directed_v0.2.csv){download="hai_directed_v0.2.csv"} |

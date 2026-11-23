@@ -1,0 +1,27 @@
+---
+title: "Codebook"
+---
+
+## hai_directed_v0.1.csv
+
+| Column | Meaning |
+|---|---|
+| from_iso3, to_iso3 | ISO3 code of the origin and the target place |
+| from_cow, to_cow | Correlates of War code |
+| from_dummy, to_dummy | Invented extra ID (dummy) |
+| year | Calendar year |
+| hai_score | Score between 0 and 1 (invented) |
+| hai_stock | Accumulated score (invented) |
+
+## hai_dyad_counts_v0.1.csv
+
+| Column | Meaning |
+|---|---|
+| n_visits | Number of visits in that year |
+| sources | Which sources the count comes from |
+
+## Notes
+
+- Places that are not one of the four are dropped.
+- Unknown visits cannot be handled.
+- The HAI measures closeness towards a place. It is not a formal tie.

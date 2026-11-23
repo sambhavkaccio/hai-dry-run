@@ -1,0 +1,13 @@
+---
+title: "Home Alignment Index"
+---
+
+**This is a dummy site for practice.** The Home Alignment Index (HAI) is invented. It scores how strongly one of four places in my life (India, France, Italy, Germany) "points towards" another in a given year.
+
+It copies the shape of the real project: a directed score per pair and year, counts per pair and year, a codebook, a figure and a working paper.
+
+- [Data](data.qmd): download the files
+- [Codebook](codebook.qmd): what each column means
+- [Figures](figures.qmd)
+- [Paper](paper.qmd)
+- [Cite and licence](cite.qmd)

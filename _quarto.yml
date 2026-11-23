@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home Alignment Index"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: data.qmd
+        text: Data
+      - href: codebook.qmd
+        text: Codebook
+      - href: figures.qmd
+        text: Figures
+      - href: paper.qmd
+        text: Paper
+      - href: cite.qmd
+        text: Cite and licence
+
+format:
+  html:
+    theme: none
+    css: style.css
+    toc: false

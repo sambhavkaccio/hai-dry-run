@@ -1,0 +1,7 @@
+---
+title: "Cite and licence"
+---
+
+**Cite as:** Sambhav (2026). *Home Alignment Index*, version 0.1 (dummy).
+
+**Licence:** our own files are CC BY 4.0. Dummy data, for practice only.

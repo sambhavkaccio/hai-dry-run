@@ -1,0 +1,5 @@
+---
+title: "Paper"
+---
+
+Working paper (dummy placeholder): [hai_working_paper_v0.1.pdf](paper/hai_working_paper_v0.1.pdf)

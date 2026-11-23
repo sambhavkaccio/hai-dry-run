@@ -1,0 +1,7 @@
+---
+title: "Figures"
+---
+
+![Dummy figure: HAI towards Germany](figures/hai_towards_germany.png)
+
+[Download the figure](figures/hai_towards_germany.png)
